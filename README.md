@@ -35,9 +35,9 @@ status using Power BI.
 2.  Resolution Efficiency Analysis
 3.  Incident State Analysis
 
--   ![Page 1](images/Page1_Incident Trend & Workload.png)
--   ![Page 2](images/Page2_Resolution Efficiency.png)
--   ![Page 3](images/Page3_Incident State.png)
+-   ![Page 1](images/page1_incident_trend_workload.png)
+-   ![Page 2](images/page2_resolution_efficiency.png)
+-   ![Page 3](images/page3_incident_state.png)
 
 ## Data Validation Decisions
 
