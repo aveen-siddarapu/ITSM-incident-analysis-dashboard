@@ -33,7 +33,7 @@ status using Power BI.
 
 1.  Incident Trend & Workload Analysis
 
-    ![Page 1](images/page1_incident_trend_and_workload.png)
+   ![Page 1](images/page1_incident_trend_and_workload.png)
 
 2.  Resolution Efficiency Analysis
 
