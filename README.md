@@ -36,7 +36,9 @@ status using Power BI.
 3.  Incident State Analysis
 
 -   ![Page 1](images/page1_incident_trend_and_workload.png)
+
 -   ![Page 2](images/page2_resolution_efficiency.png)
+
 -   ![Page 3](images/page3_incident_state.png)
 
 ## Data Validation Decisions
