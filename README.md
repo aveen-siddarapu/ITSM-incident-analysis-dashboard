@@ -33,15 +33,15 @@ status using Power BI.
 
 1.  Incident Trend & Workload Analysis
 
--   ![Page 1](images/page1_incident_trend_and_workload.png)
+    ![Page 1](images/page1_incident_trend_and_workload.png)
 
 2.  Resolution Efficiency Analysis
 
--   ![Page 2](images/page2_resolution_efficiency.png)
+   ![Page 2](images/page2_resolution_efficiency.png)
 
 3.  Incident State Analysis
 
--   ![Page 3](images/page3_incident_state.png)
+   ![Page 3](images/page3_incident_state.png)
 
 ## Data Validation Decisions
 
@@ -76,6 +76,9 @@ decisions.
 -   README.md
 
 ## Dataset
-Source: Kaggle (ITSM Incident Event Log Dataset)
-Transformation: Created latest incident snapshot inside Power BI using sys_updated_at.
+Source:
+Kaggle (ITSM Incident Event Log Dataset)
+
+Transformation: 
+Created latest incident snapshot inside Power BI using sys_updated_at.
 
