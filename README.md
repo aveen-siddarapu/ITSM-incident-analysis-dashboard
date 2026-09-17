@@ -24,8 +24,9 @@ status using Power BI.
 -   Data Understanding
 -   Data Cleaning
 -   Data Validation
--   KPI Design
+-   STAR Schema
 -   DAX
+-   KPI Design
 -   Visualization
 -   Business Analysis
 
@@ -45,7 +46,7 @@ status using Power BI.
 
 ## Data Validation Decisions
 
--   Used latest incident snapshot (24,918 unique incidents)
+-   Used latest incident snapshot (24,765 unique incidents)
 -   Validated missing values before KPI creation
 -   Validated incident counts before creating insights
 -   Skipped unsupported business problems instead of forcing conclusions
@@ -53,13 +54,11 @@ status using Power BI.
 
 ## Key Insights
 
--   Incident volume dropped after May-2016 due to reduced incident
-    recording periods rather than operational improvement
--   Moderate priority incidents contributed 95% of total incident volume
--   Most incidents were resolved within 1 day
--   Group 9 showed the highest average resolution time
--   Category 34 showed the highest average resolution duration
--   Nearly 92% of incidents remained in New or Active status
+-   High incidents generated in the month of November
+-   Moderate priority incidents contributed 94% of total incident volume
+-   Most incidents were resolved in more than 4 hours
+-   Assignment Group 70 handled the high incidents
+-   Nearly 54% of incidents remained in Active status
 
 ## Business Impact
 
@@ -76,9 +75,6 @@ decisions.
 -   README.md
 
 ## Dataset
-Source:
-Kaggle (ITSM Incident Event Log Dataset)
+Source: Kaggle (ITSM Incident Event Log Dataset)
 
-Transformation: 
-Created latest incident snapshot inside Power BI using sys_updated_at.
 
