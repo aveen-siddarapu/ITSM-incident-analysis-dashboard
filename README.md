@@ -44,6 +44,7 @@ status using Power BI.
 
    ![Page 3](images/page3_incident_state.png)
 
+
 ## Data Validation Decisions
 
 -   Used latest incident snapshot (24,765 unique incidents)
