@@ -32,9 +32,7 @@ status using Power BI.
 
 ## Dashboard Pages
 
-1.  Incident Trend & Workload Analysis
-
-   ![Page 1](images/page1_incident_trend_and_workload.png)
+   ![Page 1](images/Page1_ITSM_Dashboard.png)
 
 2.  Resolution Efficiency Analysis
 
