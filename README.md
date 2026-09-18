@@ -34,15 +34,6 @@ status using Power BI.
 
    ![Page 1](images/Page1_ITSM_Dashboard.png)
 
-2.  Resolution Efficiency Analysis
-
-   ![Page 2](images/page2_resolution_efficiency.png)
-
-3.  Incident State Analysis
-
-   ![Page 3](images/page3_incident_state.png)
-
-
 ## Data Validation Decisions
 
 -   Used latest incident snapshot (24,765 unique incidents)
